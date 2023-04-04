@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+luxehotel.webhotel.vn	TRUE	/	FALSE	1999999999	LanguageID	vi
+luxehotel.webhotel.vn	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	shc150x3kyhtidvdru3dyui2
+
